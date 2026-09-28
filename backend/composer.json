@@ -1,0 +1,13 @@
+{
+    "name": "user/home_automation_backend",
+    "authors": [
+        {
+            "name": "Okunrobo Moses Emmanuel",
+            "email": "okunrobo205@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.1",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
